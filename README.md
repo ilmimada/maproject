@@ -1,5 +1,5 @@
 # maproject
-## 🚗 UK Traffic Accident Analysis (Jan 2021)
+## 🚗 UK Traffic Accident Analysis (2021)
 ### Analisis data kecelakaan lalu lintas di Inggris menggunakan Python dan Tableau.
 
 
